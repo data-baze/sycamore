@@ -1,0 +1,13 @@
+node_modules
+dist
+*.db
+*.sqlite
+*.sqlite3
+.DS_Store
+coverage
+graphify-out/
+DESIGN.md
+docs/
+.venv/
+.superpowers/
+.github/
